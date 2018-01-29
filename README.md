@@ -2,7 +2,7 @@
 <h1 align="center">
   Contact List
 </h1>
-<h4>
+<h4 align="center">
 A fullstack application with React Native, Node.js, Express and Firebase Firestore.
 </h4>
 
